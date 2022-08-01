@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img align="Left" width="60%" src="https://github-readme-stats.vercel.app/api?username=ArtanAhmeti&show_icons=true&theme=tokyonight" />
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtanAhmeti&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
 [![Artans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtanAhmeti)](https://github.com/ArtanAhmeti/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtanAhmeti&theme=tokyonight_duo)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtanAhmeti&theme=tokyonight_duo)
 <br/>
 <br/>
 <br/>
