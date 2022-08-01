@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there its Artan 👋
 
 <!--
 **ArtanAhmeti/ArtanAhmeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I worked 4 years as EMT, so be nice to me, you never know you might need CPR and I might be close :P 
 -->
+⚡ Fun fact: I worked 4 years as EMT, so be nice to me you never know you might need CPR and I might be close :P 
 <!-- <img align="Left" width="60%" src="https://github-readme-stats.vercel.app/api?username=ArtanAhmeti&show_icons=true&theme=tokyonight" />
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtanAhmeti&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> -->
 [![Artans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtanAhmeti)](https://github.com/ArtanAhmeti/github-readme-stats)
